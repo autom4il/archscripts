@@ -1,2 +1,2 @@
 # archscripts
-Arch script.
+Arch scripts.
